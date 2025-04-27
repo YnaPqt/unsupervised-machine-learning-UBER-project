@@ -33,3 +33,12 @@ To start off, Uber wants to try this feature in New York city. Therefore you wil
 👉👉<a href="https://full-stack-bigdata-datasets.s3.eu-west-3.amazonaws.com/Machine+Learning+non+Supervis%C3%A9/Projects/uber-trip-data.zip" target="_blank"> Uber Trip Data</a> 👈👈
 
 **You only need to focus on New York City for this project**
+
+
+## Key Findings:
+
+![image](https://github.com/user-attachments/assets/06a58598-2f63-4c53-9774-4d6864ffaeb5)
+
+![image](https://github.com/user-attachments/assets/68f46806-39c6-43e5-9e6d-63d62312c1ff)
+
+
