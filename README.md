@@ -41,4 +41,14 @@ To start off, Uber wants to try this feature in New York city. Therefore you wil
 
 ![image](https://github.com/user-attachments/assets/68f46806-39c6-43e5-9e6d-63d62312c1ff)
 
+Our DBSCAN model has correctly identified Uber pickup hotzones on a friday at 5pm at the following locations:
 
+- Cluster 0 : Manhattan : Midtown Manhattan
+- Cluster 1 : Queens : JFK Airport
+- Cluster 2 : Queens : LaGuardia Airport 
+- Cluster 3 : New Jersey (Outside NYC) : Newark Liberty Airport
+- Cluster 4 : Brooklyn : Williamsburg
+- Cluster 5 : Brooklyn : Downtown Brooklyn
+- Cluster 6 : Queens : Long Island City
+
+These are known high-demand Uber pickup areas and the model has correctly separated key locations such as major transport hubs and NYC business districts.
