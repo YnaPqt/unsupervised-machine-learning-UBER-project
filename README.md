@@ -43,6 +43,9 @@ To start off, Uber wants to try this feature in New York city. Therefore you wil
 
 ![image](https://ynapqt.github.io/unsupervised-machine-learning-UBER-project/hotzones_nyc_weekdays_17.html)
 
+![image](https://ynapqt.github.io/unsupervised-machine-learning-UBER-project/docs/hotzones_nyc_weekdays_17.html)
+
+
 
 
 
